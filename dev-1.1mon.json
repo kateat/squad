@@ -1,0 +1,644 @@
+{
+  "data": [
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "question": "What was set up by Wayve?",
+              "id": "q1",
+              "answers": [
+                {
+                  "text": "Wayve",
+                  "answer_start": 51
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "question": "Who setup Wayve?",
+              "id": "q2",
+              "answers": [
+                {
+                  "text": "Amar Shah",
+                  "answer_start": 182
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "question": "Where was Wayve setup?",
+              "id": "q3",
+              "answers": [
+                {
+                  "text": "In London",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "question": "Who was Wayve setup with?",
+              "id": "q4",
+              "answers": [
+                {
+                  "text": "Alex Kendall",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+          "qas": [
+            {
+              "question": "Who was Wayve setup with?",
+              "id": "q5",
+              "answers": [
+                {
+                  "text": "Alex Kendall",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Who setup Mahindra Advance Design Europe?",
+              "id": "q6",
+              "answers": [
+                {
+                  "text": "Mahindra Group",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Who was Mahindra Advance Design Europeset up with?",
+              "id": "q7",
+              "answers": [
+                {
+                  "text": "Mahindra Group",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "What and where is CoE? ",
+              "id": "q8",
+              "answers": [
+                {
+                  "text": "Centre of Excellence, West Midlands",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "What is the network of CoE?",
+              "id": "q9",
+              "answers": [
+                {
+                  "text": "Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy",
+                  "answer_start": 201
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Who setup the autonomous vehicle industry association? ford motor company?",
+              "id": "q10",
+              "answers": [
+                {
+                  "text": "The autonomous vehicle industry association ford motor company, waymo, lyft, and uber",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "What is M.A.D.E?",
+              "id": "q11",
+              "answers": [
+                {
+                  "text": "TMahindra Advanced Design Europe ",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (AV) industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors.",
+          "qas": [
+            {
+              "question": "Who is the voice of autonomous vehicles?",
+              "id": "q12",
+              "answers": [
+                {
+                  "text": " Volva Cars, and Uber",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (AV) industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors.",
+          "qas": [
+            {
+              "question": "What technology are Volva using?",
+              "id": "q13",
+              "answers": [
+                {
+                  "text": "AV technology",
+                  "answer_start": 345
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (AV) industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "qas": [
+            {
+              "question": "Who is developing autonomous Vehicles?",
+              "id": "q14",
+              "answers": [
+                {
+                  "text": "Volva Cars",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (AV) industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "qas": [
+            {
+              "question": "What sectors have Volva targeted?",
+              "id": "q15",
+              "answers": [
+                {
+                  "text": "trucking. Ridesharing",
+                  "answer_start": 184
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "government planning and control",
+      "paragraphs": [
+        {
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (AV) industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. n1 This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "qas": [
+            {
+              "question": "Who setup Volva?",
+              "id": "q16",
+              "answers": [
+                {
+                  "text": "ford motor company, waymo, lyft, volvo cars, and uUer",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Intelligent Telematics, the leading provider of connected vehicle camera solutions, has relocated its European headquarters to Reading as part of an ambitious expans strategy that weill see its workforce more than double in the coming months. The company has officially opened the office development as Commerce Park in Theale following annual revenue growth of 67 percent driven by unprecendented demand for its connected vehicle camera portfolio from the road transport, fleet and insurance sectors. ",
+          "qas": [
+            {
+              "question": "Who is developing autonomous Vehicles?",
+              "id": "q17",
+              "answers": [
+                {
+                  "text": "ford motor company, waymo, lyft, volvo cars, and uber",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Intelligent Telematics, the leading provider of connected vehicle camera solutions, has relocated its European headquarters to Reading as part of an ambitious expans strategy that weill see its workforce more than double in the coming months. The company has officially opened the office development as Commerce Park in Theale following annual revenue growth of 67 percent driven by unprecendented demand for its connected vehicle camera portfolio from the road transport, fleet and insurance sectors. ",
+          "qas": [
+            {
+              "question": "Who is developing autonomous Vehicles?",
+              "id": "q18",
+              "answers": [
+                {
+                  "text": "Volva Cars",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Intelligent Telematics, the leading provider of connected vehicle camera solutions, has relocated its European headquarters to Reading as part of an ambitious expans strategy that weill see its workforce more than double in the coming months. The company has officially opened the office development as Commerce Park in Theale following annual revenue growth of 67 percent driven by unprecendented demand for its connected vehicle camera portfolio from the road transport, fleet and insurance sectors. ",
+          "qas": [
+            {
+              "question": "Where did Intelligent Telematics move from ?",
+              "id": "q19",
+              "answers": [
+                {
+                  "text": "European headquarters",
+                  "answer_start": 102
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Intelligent Telematics, the leading provider of connected vehicle camera solutions, has relocated its European headquarters to Reading as part of an ambitious expans strategy that weill see its workforce more than double in the coming months. The company has officially opened the office development as Commerce Park in Theale following annual revenue growth of 67 percent driven by unprecendented demand for its connected vehicle camera portfolio from the road transport, fleet and insurance sectors. ",
+          "qas": [
+            {
+              "question": "Who is developing autonomous Vehicles?",
+              "id": "q20",
+              "answers": [
+                {
+                  "text": "Volva Cars",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q21",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Who is developing autonomous Vehicles?",
+              "id": "q22",
+              "answers": [
+                {
+                  "text": "Volva Cars",
+                  "answer_start": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q23",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q24",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q25",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actors",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q26",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q27",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q28",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q29",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q30",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q31",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automation Race - Self Organisation of Business Actorsl",
+      "paragraphs": [
+        {
+          "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+          "qas": [
+            {
+              "question": "Where was Mahindra advanced design europe set up?",
+              "id": "q32",
+              "answers": [
+                {
+                  "text": "West Midlands",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
